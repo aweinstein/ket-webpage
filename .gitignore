@@ -1,0 +1,6 @@
+.hugo_build.lock
+content/authors/admin/avatar.jpeg
+go.sum
+hugo_stats.json
+public/
+resources/
