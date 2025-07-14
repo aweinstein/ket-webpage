@@ -19,7 +19,10 @@ Based on [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 - `academic import kta.bib content/publication/ --compact`
 
 ## Deploy
+- `hugo build --gc --cleanDestinationDir`
 - `rsync -avz --delete ./public myuser@myserver.com:/home/user/karem.cl`
+- `user@remote:~$ sudo rm -rf /var/www/karem.cl`
+- `user@remote:~$ sudo cp -r karem.cl/public/ /var/www/karem.cl`
 
 ## TODO
 - Enable menus: Talks, News, Experience, Projects, Teaching
