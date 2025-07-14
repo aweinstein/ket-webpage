@@ -47,9 +47,13 @@ profiles:
     url: https://orcid.org/0000-0002-1453-4770
 
 interests:
-  - Phase transformations of metallic alloys
   - Welding
-  - Material characterization using electron microscopy
+  - Hard coatings
+  - Thermal spray processes
+  - Metal additive manufacturing
+  - Phase transformations in metallic alloys
+  - Materials characterization.
+  
 
 education:
   - area: PhD in Material Science
@@ -162,4 +166,4 @@ education:
 
 ## About Me
 
-Karem Tello is a professor in the Department of Metallurgy and Material Science at Universidad Técnica Federico Santa María (UTFSM), Chile. She was the  head of the same Department between 2020 and 2023. She received a B.S. degree in Metallurgical Engineering from the Universidad Técnica Federico Santa María (2005). She received the M.Sci. and Ph.D. in Material Science from the Colorado School of Mines (2010, 2012).
+Karem Tello is an assistant professor in the Department of Mining, Metallurgy and Materials Engineering at Universidad Técnica Federico Santa María (UTFSM), Chile. She was the head of the same Department in the period 2020-2024. She received a B.S. degree in Metallurgical Engineering from the Universidad Técnica Federico Santa María (2006) and the M.Sc. and Ph.D. in Material Science from the Colorado School of Mines (2009, 2012).
