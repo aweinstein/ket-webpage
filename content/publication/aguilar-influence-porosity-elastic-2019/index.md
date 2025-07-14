@@ -1,0 +1,43 @@
+---
+title: Influence of Porosity on the Elastic Modulus of Ti-Zr-Ta-Nb Foams with a Low
+  Nb Content
+authors:
+- Claudio Aguilar
+- Mariette Arancibia
+- Ismeli Alfonso
+- Mamie Sancy
+- Karem Tello
+- Vicente Salinas
+- Fernando De Las Cuevas
+date: '2019-02-01'
+publishDate: '2025-07-14T22:09:59.591940Z'
+publication_types:
+- article-journal
+publication: '*Metals*'
+doi: 10.3390/met9020176
+abstract: The development of titanium foams with a low elastic modulus has increased
+  their scientific and technological relevance due to the evident need to avoid stress
+  shielding problems. In this work, we studied the synthesis and characterization
+  of Ti-13Zr-13Ta-3Nb (wt.%) alloy foams which present high potential for biomedical
+  applications. A Ti-Nb-Ta-Zr mixture was produced by mechanical alloying using a
+  planetary mill. Ti alloy foams were obtained using NaCl as a space-holder (40, 50,
+  and 60 v/v %) that was mixed with the metallic powders and compacted under 420 MPa
+  stress. NaCl particles were removed from the green compacts by submerging samples
+  in distilled water at 60 °C. The green compacts were sintered at 1300 °C for 3 h
+  in Ar atmosphere. Powders and foams were characterized by SEM and optical microscopy.
+  The results showed that Ti-based foams with a tailored heterogeneous pore distribution
+  can be obtained using the space holder method. The elastic modulus (E) of foams
+  was estimated and measured between 5 and 25 GPa using theoretical and finite element
+  analysis (FEA) models which are close to the E values measured experimentally. The
+  results showed that foams with 50% and 60% porosity are potential bone replacement
+  materials because their E value is closer to the E value of human bone.
+tags:
+- biomaterials
+- elastic modulus
+- metallic foam
+- powder metallurgy
+- titanium alloys
+links:
+- name: URL
+  url: https://www.mdpi.com/2075-4701/9/2/176
+---
