@@ -18,6 +18,9 @@ Based on [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 - Use [academic Python script](https://pypi.org/project/academic/) to import BibTex into `content/publications`.
 - `academic import kta.bib content/publication/ --compact`
 
+## Deploy
+- `rsync -avz --delete ./public myuser@myserver.com:/home/user/karem.cl`
+
 ## TODO
 - Enable menus: Talks, News, Experience, Projects, Teaching
 
